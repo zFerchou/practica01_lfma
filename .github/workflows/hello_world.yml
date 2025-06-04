@@ -13,4 +13,10 @@ jobs:
       -  name: Digo Hola UwU
          run: echo "hola papus aña"
 
+      -  name: Quien soy
+         run: whoami
+
+      -  name: Fecha de hoy
+         run: date
+
         
